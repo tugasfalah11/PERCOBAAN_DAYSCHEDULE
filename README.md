@@ -1,2 +1,2 @@
 # PERCOBAAN_DAYSCHEDULE
-repository untuk percobaan mengenal github(untuk itu yang akan saya paki temanya adalah dayschedule)
+repository untuk percobaan mengenal github(untuk itu yang akan saya pakai temanya adalah dayschedule)
